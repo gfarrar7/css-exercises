@@ -1,0 +1,14 @@
+.black-click,
+.yellow-click {
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.black-click {
+color: white;
+background-color: black;
+}
+
+.yellow-click {
+background-color: yellow;
+}
